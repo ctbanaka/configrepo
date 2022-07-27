@@ -1,0 +1,9 @@
+my:
+  greeting: Helloo
+  list:
+    values: 1,2,3
+    
+db:
+  connection: conn string
+  host:127.0.0.1
+  port:1200
